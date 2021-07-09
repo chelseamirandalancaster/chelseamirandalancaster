@@ -6,8 +6,7 @@
 
 ## Care to Connect? Find me here: 
 
-<li><a href="https://www.linkedin.com/in/chelsea-m-lancaster/" class="icon brands alt fa-linkedin"><span class="label">Linkedin</span></a></li>
-
+<li><a href="https://www.linkedin.com/in/chelsea-m-lancaster/" class="icon brands alt fa-linkedin"><span class="label">Linkedin</span></a></li> 
 <li><a href="https://twitter.com/StatsStrikeBack" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
 
 
