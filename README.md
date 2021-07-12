@@ -4,6 +4,8 @@
 
 <p>I graduated May 2021 Magna Cum Laude from San Francisco State University. I hold a BS in Statistics with an emphasis in Science. I am here to build my portfolio in order to show case my code but I'm also here to show you a bit of who I am and what I am interested in. I am also here to network with like-minded data analysts, machine-learners, and decision scientists, whoever you may be! </p>
 
+**To go straight to my portfolio** <a href="https://chelseamirandalancaster.github.io/" class="icon brands alt fa-linkedin"><span class="label">click here!</span></a>
+
 ## Care to Connect? Find me here: 
 
 <li><a href="https://www.linkedin.com/in/chelsea-m-lancaster/" class="icon brands alt fa-linkedin"><span class="label">Linkedin</span></a></li> 
